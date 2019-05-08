@@ -7,7 +7,7 @@ function FindKey()
 			for i=0,numSlots,1
 				do
 				local texture, count, locked, quality, readable, lootable, link, isFiltered, hasNoValue, itemID = GetContainerItemInfo(bag, i)
-				if(itemID == 138019)
+				if(itemID == 158923)
 					then
 					keyLink = link
 					flag = true
@@ -56,9 +56,3 @@ end
 function JKeyMapButton_OnLeave(self)
 	GameTooltip:Hide()
 end
-
-
-
-
-
-
