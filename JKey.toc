@@ -1,0 +1,10 @@
+## Interface: 70100
+## Title: Jkey
+## Author: Regi-AzjolNerub
+## Version 0.8
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: JKey_Settings
+
+JKey.lua
+JKeyMapButtonDraggable.xml
